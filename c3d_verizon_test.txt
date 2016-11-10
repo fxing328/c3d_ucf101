@@ -1,0 +1,6 @@
+/scratch/xf362/c3d_ucf101/verizon_data/arresting_a_man1.mp4 1 0
+/scratch/xf362/c3d_ucf101/verizon_data/arresting_a_man1.mp4 17 0
+/scratch/xf362/c3d_ucf101/verizon_data/arresting_a_man1.mp4 160 0
+/scratch/xf362/c3d_ucf101/verizon_data/arresting_a_man1.mp4 167 0
+/scratch/xf362/c3d_ucf101/verizon_data/arresting_a_man1.mp4 170 0
+/scratch/xf362/c3d_ucf101/verizon_data/arresting_a_man1.mp4 171 0

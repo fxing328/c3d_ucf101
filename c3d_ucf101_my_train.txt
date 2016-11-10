@@ -1,0 +1,14 @@
+/scratch/xf362/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g08_c01.avi 1 0
+/scratch/xf362/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g08_c01.avi 17 0
+/scratch/xf362/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g08_c01.avi 33 0
+/scratch/xf362/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g08_c01.avi 49 0
+/scratch/xf362/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g08_c01.avi 65 0
+/scratch/xf362/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g08_c01.avi 81 0
+/scratch/xf362/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g08_c01.avi 97 0
+/scratch/xf362/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g08_c02.avi 1 0
+/scratch/xf362/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g08_c02.avi 17 0
+/scratch/xf362/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g08_c02.avi 33 0
+/scratch/xf362/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g08_c02.avi 49 0
+/scratch/xf362/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g08_c02.avi 65 0
+/scratch/xf362/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g08_c02.avi 81 0
+/scratch/xf362/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g08_c02.avi 97 0
